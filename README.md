@@ -1,1 +1,2 @@
-# coldvault-bc5-eu-website
+# redoxer-website
+Redoxer Website
